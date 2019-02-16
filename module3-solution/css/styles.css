@@ -5,7 +5,6 @@ body {
   background-color: #EAF1F7;
 }
 
-/** HEADER **/
 #header-nav {
   background-color: #1D3775;
   color: green;
@@ -17,41 +16,46 @@ body {
   padding-top: 25px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 {
   font-family: 'Coiny', cursive;
   color: #EAF1F7;
   font-size: 1.6em;
-  text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
   margin-bottom: 0;
   line-height: .2;
 }
+
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+
 .navbar-brand p {
   color: #000;
   text-transform: uppercase;
   font-size: .7em;
   margin-top: 15px;
 }
-.navbar-brand p span { /* Star-K */
+
+.navbar-brand p span {
   vertical-align: middle;
 }
 
 #nav-list {
   margin-top: 10px;
 }
+
 #nav-list a {
   color: #EAF1F7;
   text-align: center;
 }
+
 #nav-list a:hover {
   background: #E7E7E7;
   color: #1D3775;
 }
+
 #nav-list a span {
   font-size: 1.8em;
 }
@@ -60,6 +64,7 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #EAF1F7;
 }
+
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -40px;
@@ -68,21 +73,27 @@ body {
 
 
 #main-content {
-	margin: 20px;
-	text-align: justify;
+  margin: 20px;
+  text-align: justify;
 }
 
 #main-content h2 {
-	color: #000;
-	font-size: 2em;
-	margin: 20px;
+  color: #000;
+  font-size: 2em;
+  margin: 20px;
 }
 
 .text-wrap {
-	margin: 20px;
+  margin: 20px;
+}
+
+.text-wrap .section-header {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
 }
 
 .row {
-	background-color: #6E98BA;
-	margin: 50px;
+  background-color: #6E98BA;
+  margin: 50px;
 }
