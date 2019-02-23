@@ -4,4 +4,4 @@ The Module 5 problem statement can be found here: https://github.com/jhu-ep-cour
 
 # The Solution
 The source code to the solution can be found in this folder.
-The solution can be previewed at: https://github.com/parthcoursera/coursera-test/tree/master/module5-solution
+The solution can be previewed at: https://parthcoursera.github.io/coursera-test/module5-solution/
